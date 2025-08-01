@@ -2,6 +2,8 @@
 
 A streamlined tool to export complete message history from macOS Messages app for any contact.
 
+Created this to export my own messages on MacOS. I prefer to create free, open-source alternatives that serve the public rather than pay for tools that others charge exorbitant amounts for, when I can build them myself with the least amount of time spent.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
